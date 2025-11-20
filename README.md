@@ -1,0 +1,1 @@
+Just give it a file directory and it will create folders based on existing file extensions and copy the files into those folders. If a file with the same name already exists in the destination folder, the program automatically renames the copied file to avoid overwriting.
